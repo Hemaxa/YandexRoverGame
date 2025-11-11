@@ -1,2 +1,2 @@
-# ObexRush
-ObexRush is a delivery robot game where players must navigate obstacles to successfully deliver orders to customers.
+# YandexRoverGame
+YandexRoverGame is a game about the Yandex delivery robot, where the player must overcome obstacles to successfully deliver orders to customers.
